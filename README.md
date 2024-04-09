@@ -22,6 +22,7 @@ I am a software developer student at CodeSpace Academy. I have background knowle
 
 
 ### LOOM video
+https://www.loom.com/share/1c74f02907ad443bba2f7b436595f56f?sid=7dc3aebf-e1cd-4518-8593-8256b6ee1dec
 
 
 <p align="left"> <a href="https://www.github.com/oamogetswese" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
